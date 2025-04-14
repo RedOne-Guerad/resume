@@ -25,7 +25,7 @@
 - 🚚 **Migration:** Migrate containers, PHP, and npm packages to GitLab registry, replacing outdated tools.
 - 🛡️ **Security Compliance:** Implement security best practices and conduct regular vulnerability assessments.
 - 🔍 **Automation:** Develop automation scripts to reduce manual intervention in repetitive tasks.
-- 🌐 **Cloud Infrastructure:** Design scalable cloud solutions leveraging AWS services.
+- 🌐 **Cloud Infrastructure:** Design scalable cloud solutions leveraging AWS services and following PCI-DSS requirements.
 
 ### **System, Network, and Security Administrator** | [RAHMOUNE GROUP](https://groupe-rahmoune.com/)  
 **Dec 2018 – Jun 2023**  
@@ -81,15 +81,16 @@ University of Science and Technology Houari Boumediene
 
 ## 🔧 Skills
 
-- Docker/Kubernetes 🐳
+- Docker/Kubernetes/Rancher 🐳
 - CI/CD Pipelines (GitLab) 🚀
 - Infrastructure as Code (Ansible, Terraform) 🛠️
-- Monitoring Tools (Prometheus, Grafana) 📈
+- Monitoring Tools (Zabbix, Prometheus, Grafana) 📈
 - Cloud Services (AWS) ☁️
 - Databases (MySQL, MongoDB, Clickhouse) 🗄️
 - Programming (Python, PHP) 🐍
 - Version Control (Git) 🔄
 - Logging & Visualization (Graylog, Sentry) 📊
+- Virtualization (VMware, proxmox) 🖥️
 
 ---
 
