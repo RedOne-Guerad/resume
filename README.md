@@ -1,6 +1,6 @@
 # 👨‍💻 Redouane Guerad
 
-## 🌟 Linux/DevOps System Administrator
+## 🌟 Senior DevOps/Infrastructure Engineer
 
 ✉️ redouane.guerad@gmail.com
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Experience
 
-### **Linux System Administrator** | Private (NDA)
+### **Senior Infrastructure Engineer** | Private (NDA)
 **Jan 2022 – Present**
 - 🏢 **Datacenter Implementation:** Led infrastructure deployment for new datacenter, including network architecture design, VM provisioning on Proxmox VE clusters, and DCIM/IPAM implementation using NetBox.
 - 🔀 **High Availability:** Designed and deployed HA load balancing clusters using HAProxy, NGINX, and Keepalived (VRRP) for Layer 4/7 traffic distribution and SSL termination.
